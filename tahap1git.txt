@@ -2,3 +2,5 @@
 2. Basic Front end
 3. Javacsript dasar
 4. Java Script OOP
+5. Asyncronus 
+6. ReactJS
