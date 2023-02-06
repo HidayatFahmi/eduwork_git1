@@ -2,6 +2,8 @@ Salam Kenal nama saya fahmi hidayat dari batam
 
 Resolusi Saya :
 1. Menjadi full stack developer
+1.1 Belajar algoritma 
+1.2 react.JS
 2. Bekerja diperusahaan international
 3. Renovasi Rumah Dibelitung
 4. hajikan Ibu
